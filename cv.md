@@ -5,7 +5,6 @@ Some kind of self-presentation. In case of lack of experience  Junior Developer 
 learning new things from everywhere etc.).: **Web-Developer for more than one year. I've experienced in writing SPA, testing and debugging**
 4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.): *PL*: **JavaScript**, *JS-library*: **React**, *methodology*: **BEM**, *VC*: **Git**. *Others*: **Webpack**, **SASS/LESS**, **npm**.
 5. Code examples (LATEST): 
-
 ```javascript
 import { connect } from 'react-redux';
 import { addMessageActionCreator, updateMessageTextActionCreator } from '../../../../redux/messages-reducer';
@@ -31,7 +30,6 @@ const MessagesContainer = connect(mapStateToProps, mapDispatchToProps)(Messages)
 
 export default MessagesContainer;
 ```
-
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code): **I participated in EPAM Systems's training project in React and also I've done some projects for me**.
