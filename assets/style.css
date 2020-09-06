@@ -1,0 +1,12 @@
+.cv__container {
+  width: 1024px;
+  margin: auto;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.cv__avatar {
+  border-radius: 50%;
+  display: flex;
+  margin: 0 auto;
+}
