@@ -2,7 +2,7 @@
 2. Contact Info (add several ways to contact you): *Mail*: **evg.tulya@gmail.com**, *Linkedin*: **https://www.linkedin.com/in/evgeniy-tulya/**, *Number*: **+375(29)818-03-23**
 3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
 Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).: **Web-Developer for more than one year. I've experienced in writing SPA, testing and debugging**
+learning new things from everywhere etc.).: **Web-Developer for more than one year. I've experienced in writing SPA, testing and debugging. I like studing because I joined RSSchool**.
 4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.): *PL*: **JavaScript**, *JS-library*: **React**, *methodology*: **BEM**, *VC*: **Git**. *Others*: **Webpack**, **SASS/LESS**, **npm**.
 5. Code examples (LATEST): 
 ```javascript
